@@ -9,6 +9,10 @@ https://go.microsoft.com/fwlink/?linkid=871743
 **Microsoft Office 2011 Suite Installer Volume License Version 14.7.7 Minimal 10.6.8 (Snow Leopard)**
 https://go.microsoft.com/fwlink/?linkid=273962
 
+
+
+**Microsoft Office Activator**
+
 [Microsoft Office 2019 Volume License Serializer](https://raw.githubusercontent.com/alsyundawy/Microsoft-Office-For-MacOS/master/Microsoft_Office_2019_VL_Serializer.pkg)
 
 [Microsoft_Office_2016_Volume License Serializer_2.0](https://raw.githubusercontent.com/alsyundawy/Microsoft-Office-For-MacOS/master/Microsoft_Office_2016_VL_Serializer_2.0.pkg)
