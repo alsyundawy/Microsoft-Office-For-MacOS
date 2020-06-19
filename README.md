@@ -1,9 +1,9 @@
 # **Installer & Activited Microsoft Office For MacOS**
 
-**Microsoft Office 2019 Suite Installer Volume License Version 16.37.0 Minimal 10.13.x (High Sierra)**
+**Microsoft Office 2019 Suite Installer Volume License Version 16.38.0 Minimal 10.13.x (High Sierra)**
 https://go.microsoft.com/fwlink/?linkid=525133
 
-**Microsoft Office 2016 Suite Installer Volume License Version 16.16.22 Minimal 10.10.x (Yosemite)**
+**Microsoft Office 2016 Suite Installer Volume License Version 16.16.23 Minimal 10.10.x (Yosemite)**
 https://go.microsoft.com/fwlink/?linkid=871743
 
 **Microsoft Office 2011 Suite Installer Volume License Version 14.7.7 Minimal 10.6.8 (Snow Leopard)**
