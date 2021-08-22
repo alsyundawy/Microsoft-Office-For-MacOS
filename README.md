@@ -3,7 +3,7 @@
 **Microsoft Office 2019 Suite Installer Volume License Version 16.52.0 Minimal 10.14.x (Mojave)**
 https://go.microsoft.com/fwlink/?linkid=525133
 
-**Microsoft Office 2019 Suite Installer Volume License Version 16.43.0 Minimal 10.13.x (High Sierra)**
+**Microsoft Office 2019 Suite Installer Volume License Version 16.43.0 Maximal 10.13.x (High Sierra)**
 https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.43.20110804_Installer.pkg
 
 **Microsoft Office 2016 Suite Installer Volume License Version 16.16.27 Minimal 10.10.x (Yosemite)**
