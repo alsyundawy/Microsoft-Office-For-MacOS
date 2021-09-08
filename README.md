@@ -20,7 +20,11 @@ https://go.microsoft.com/fwlink/?linkid=273962
 
 [Microsoft_Office_2016_Volume License Serializer_2.0](https://raw.githubusercontent.com/alsyundawy/Microsoft-Office-For-MacOS/master/Microsoft_Office_2016_VL_Serializer_2.0.pkg)
 
-**Microsoft Office 2011 Serial Key**
+**Microsoft Office 2011 Activator**
+
+[Microsoft_Office_2011_Volume License Serializer](https://raw.githubusercontent.com/alsyundawy/Microsoft-Office-For-MacOS/master/vlmsommxi.dmg)
+
+Or
 
 2WBVT-PTKRB-2RH2B-X2DYY-QBXP4
 
