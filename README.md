@@ -15,6 +15,11 @@ https://go.microsoft.com/fwlink/?linkid=871743
 
 https://go.microsoft.com/fwlink/?linkid=273962
 
+**Microsoft Office for Mac 2011 14.5.6 update**
+
+https://www.microsoft.com/en-us/download/details.aspx?id=49183
+
+
 
 
 **Microsoft Office 2016 & 2019 Activator**
