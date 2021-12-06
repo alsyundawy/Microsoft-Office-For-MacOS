@@ -1,6 +1,6 @@
 # **Installer & Activited Microsoft Office For MacOS**
 
-**Microsoft Office 2019 / LTSC 2021 Suite Installer Volume License Version 16.55 (Ongoing, Update Every Month) Minimal 10.15.x (Catalina)**
+**Microsoft Office 2019 / LTSC 2021 Suite Installer Volume License Version 16.55 (Ongoing, Update Every Month) Minimal 10.15.x (Catalina With M1 Support)**
 https://go.microsoft.com/fwlink/?linkid=525133
 
 
@@ -25,9 +25,9 @@ https://go.microsoft.com/fwlink/?linkid=273962
 
 **Microsoft Office 2016 & 2019 Activator**
 
-[Microsoft Office 2021 LTSC Volume License Serializer](https://raw.githubusercontent.com/alsyundawy/Microsoft-Office-For-MacOS/master/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)
+[Microsoft Office 2021 LTSC Volume License Serializer (M1 Support)](https://raw.githubusercontent.com/alsyundawy/Microsoft-Office-For-MacOS/master/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)
 
-[Microsoft Office 2019 Volume License Serializer](https://raw.githubusercontent.com/alsyundawy/Microsoft-Office-For-MacOS/master/Microsoft_Office_2019_VL_Serializer_Universal.pkg)
+[Microsoft Office 2019 Volume License Serializer  (M1 Support) ](https://raw.githubusercontent.com/alsyundawy/Microsoft-Office-For-MacOS/master/Microsoft_Office_2019_VL_Serializer_Universal.pkg)
 
 [Microsoft Office 2019 Volume License Serializer ( Maximum High Sierra)](https://raw.githubusercontent.com/alsyundawy/Microsoft-Office-For-MacOS/master/Microsoft_Office_2019_VL_Serializer.pkg)
 
