@@ -1,6 +1,6 @@
 # **Installer & Activited Microsoft Office For MacOS**
 
-**Microsoft Office 2019 / LTSC 2021 Suite Installer Volume License Version 16.59 (Ongoing, Update Every Month) Minimal 10.15.x (Catalina With M1 Support)**
+**Microsoft Office 2019 / LTSC 2021 Suite Installer Volume License Version 16.60 (Ongoing, Update Every Month) Minimal 10.15.x (Catalina With M1 Support)**
 https://go.microsoft.com/fwlink/?linkid=525133
 
 
@@ -10,15 +10,15 @@ https://s.id/FIsW7
 
 **Microsoft Office 2019 Suite Installer Volume License Version 16.43.0 Maximum 10.13.x (High Sierra)**
 
-https://s.id/LBe5-
+https://s.id/12HE8
 
 **Microsoft Office 2016 Suite Installer Volume License Version 16.16.27 Minimal 10.10.x (Yosemite)**
 
-https://go.microsoft.com/fwlink/?linkid=871743
+https://s.id/12HGm
 
 **Microsoft Office 2011 Suite Installer Volume License Version 14.7.7 Minimal 10.6.8 (Snow Leopard)**
 
-https://go.microsoft.com/fwlink/?linkid=273962
+https://s.id/12HH5
 
 
 
