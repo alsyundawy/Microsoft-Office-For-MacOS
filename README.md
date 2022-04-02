@@ -2,7 +2,7 @@
 
 **Microsoft Office 2019 / LTSC 2021 Suite Installer Volume License Version 16.60 (Ongoing, Update Every Month) Minimal 10.15.x (Catalina With M1 Support)**
 
-[Microsoft Office 2019 / LTSC 2021 Suite Installer] (https://go.microsoft.com/fwlink/?linkid=525133)
+[Microsoft Office 2019 / LTSC 2021 Suite Installer](https://go.microsoft.com/fwlink/?linkid=525133)
 
 
 **Microsoft Office 2019 Suite Installer Volume License Version 16.54 Maximum 10.14.x (Mojave)**
