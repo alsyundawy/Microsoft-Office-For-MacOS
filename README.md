@@ -24,7 +24,7 @@
 
 
 
-**Microsoft Office 2016 & 2019 Activator**
+**Microsoft Office 2016, 2019 & 2021 Activator**
 
 [Microsoft Office 2021 LTSC Volume License Serializer (M1/M1 PRO/M1 MAX/M1 ULTRA/M2 Support)](https://s.id/1d4gZ)
 
