@@ -26,17 +26,17 @@ https://s.id/12HH5
 
 **Microsoft Office 2016 & 2019 Activator**
 
-[Microsoft Office 2021 LTSC Volume License Serializer (M1 Support)](https://s.id/12HIi)
+[Microsoft Office 2021 LTSC Volume License Serializer (M1 Support)](https://s.id/1d4gZ)
 
-[Microsoft Office 2019 Volume License Serializer  (M1 Support) ](https://s.id/12HIl)
+[Microsoft Office 2019 Volume License Serializer  (M1 Support) ](https://s.id/1d4hh)
 
-[Microsoft Office 2019 Volume License Serializer ( Maximum High Sierra)](https://s.id/12HIr)
+[Microsoft Office 2019 Volume License Serializer ( Maximum High Sierra)](https://s.id/1d4hn)
 
-[Microsoft_Office_2016_Volume License Serializer_2.0](https://s.id/12HIu)
+[Microsoft_Office_2016_Volume License Serializer_2.0](https://s.id/1d4hO)
 
 **Microsoft Office 2011 Activator**
 
-[Microsoft_Office_2011_Volume_License_Serializer](https://s.id/12HIA)
+[Microsoft_Office_2011_Volume_License_Serializer](https://s.id/1d4i3)
 
 Or
 
