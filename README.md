@@ -59,13 +59,24 @@
 **C7TTK-M29H8-9H7JR-P82WG-2DCDW**
 
 
+
+
+
+
+
 **Microsoft Office Mac Tools**
 
+
 **Office-Reset, Designed to troubleshoot and fix Microsoft Office for Mac errors**
+
 [Office-Reset 1.9.1](https://s.id/1eS38)
 
 **License Removal Tool, Official Microsoft tool to remove all Office licenses from a computer**
+
 [License Removal Tool 2.7](https://s.id/1eS3k)
+
+
+
 
 
 ### **Anda Memang Luar Biasa | Harry DS Alsyundawy | Kaum Rebahan Garis Keras & Militan**
