@@ -13,11 +13,11 @@
 
 [DOWNLOAD LINK INSTALLER](https://s.id/12HE8)
 
-**Microsoft Office 2016 Suite Installer Volume License Version 16.16.27 Minimal 10.10.x (Yosemite)**
+**Microsoft Office 2016 Suite Installer Volume License Version 16.16.27 Minimum 10.10.x (Yosemite)**
 
 [DOWNLOAD LINK INSTALLER](https://s.id/12HGm)
 
-**Microsoft Office 2011 Suite Installer Volume License Version 14.7.7 Minimal 10.6.8 (Snow Leopard)**
+**Microsoft Office 2011 Suite Installer Volume License Version 14.7.7 Minimum 10.6.8 (Snow Leopard)**
 
 [DOWNLOAD LINK INSTALLER](https://s.id/12HH5)
 
