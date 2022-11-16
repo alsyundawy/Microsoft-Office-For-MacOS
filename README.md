@@ -5,6 +5,9 @@
 [Microsoft Office 2019 / LTSC 2021 / Office 365 Suite Installer](https://s.id/12HI9)
 
 
+[Microsoft Office For Mac 16.67 November update for Office requires a minimum of macOS Big Sur - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
+
+
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.61.1 Maximum 10.15.x (Catalina)**
 
 [DOWNLOAD LINK INSTALLER](https://s.id/1osFQ)
