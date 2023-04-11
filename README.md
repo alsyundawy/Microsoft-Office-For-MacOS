@@ -1,6 +1,6 @@
 # **Installer & Activited Microsoft Office For MacOS**
 
-**Microsoft Office 2019 / LTSC 2021 Suite Installer Volume License Version 16.71 (Ongoing, Update Every Month) Minimal 11.x ( BIG SUR With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA Support)**
+**Microsoft Office 2019 / LTSC 2021 Suite Installer Volume License Version 16.72 (Ongoing, Update Every Month) Minimal 11.x ( BIG SUR With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA Support)**
 
 [Microsoft Office 2019 / LTSC 2021 / Office 365 Suite Installer](https://s.id/12HI9)
 
