@@ -1,5 +1,16 @@
 # **Installer & Activited Microsoft Office For MacOS**
 
+[![Latest Version](https://img.shields.io/github/v/release/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/releases)
+[![Maintenance Status](https://img.shields.io/maintenance/yes/9999)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/)
+[![License](https://img.shields.io/github/license/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/pulls)
+[![Donate with PayPal](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/alsyundawy)
+[![Sponsor with GitHub](https://img.shields.io/badge/GitHub-sponsor-orange)](https://github.com/sponsors/alsyundawy)
+[![GitHub Stars](https://img.shields.io/github/stars/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/network/members)
+[![GitHub Contributors](https://img.shields.io/github/contributors/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/graphs/contributors)
+
 **Microsoft Office 2019 / LTSC 2021 Suite Installer Volume License Version 16.75 (Ongoing, Update Every Month) Minimal 11.x ( BIG SUR With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA Support)**
 
 [Microsoft Office 2019 / LTSC 2021 / Office 365 Suite Installer](https://s.id/12HI9)
