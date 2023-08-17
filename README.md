@@ -46,7 +46,7 @@
 
 ---
 
-# Actovator 
+# Activator 
 
 **Microsoft Office 2016, 2019 & 2021 Activator**
 
