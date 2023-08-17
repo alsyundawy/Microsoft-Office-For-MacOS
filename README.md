@@ -11,6 +11,8 @@
 [![GitHub Forks](https://img.shields.io/github/forks/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/network/members)
 [![GitHub Contributors](https://img.shields.io/github/contributors/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/graphs/contributors)
 
+---
+
 **Microsoft Office 2019 / LTSC 2021 Suite Installer Volume License Version 16.76 (Ongoing, Update Every Month) Minimal 11.x ( BIG SUR With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA Support)**
 
 [Microsoft Office 2019 / LTSC 2021 / Office 365 Suite Installer](https://s.id/12HI9)
@@ -40,6 +42,7 @@
 [DOWNLOAD LINK INSTALLER](https://s.id/12HH5)
 
 
+---
 
 
 **Microsoft Office 2016, 2019 & 2021 Activator**
@@ -76,6 +79,7 @@
 
 **C7TTK-M29H8-9H7JR-P82WG-2DCDW**
 
+---
 
 # Tutorial: Remove Office License and Install a new Office Volume License using Serializer
 ### First, log off every account that logs on to Microsoft Word.
