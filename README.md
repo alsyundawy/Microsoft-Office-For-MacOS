@@ -54,7 +54,7 @@
 
 [Microsoft Office 2019 Volume License Serializer  (M1/M1 PRO/M1 MAX/M1 ULTRA/M2 Support) ](https://s.id/1d4hh)
 
-[Microsoft Office 2019 Volume License Serializer ( Maximum High Sierra)](https://s.id/1d4hn)
+[Microsoft Office 2019 Volume License Serializer (Maximum Version 16.68 without 365)](https://s.id/1d4hn)
 
 [Microsoft_Office_2016_Volume License Serializer_2.0](https://s.id/1d4hO)
 
