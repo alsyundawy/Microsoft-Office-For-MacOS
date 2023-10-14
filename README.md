@@ -19,7 +19,7 @@
 
 [Microsoft Office LTSC 2021 / Office 365 Suite Installer](https://s.id/12HI9)
 
-**Noted 
+**Noted**
 
 [Microsoft Office For Mac 16.78 is the last build to support 2019 license types!!! - official docs! Click Here](https://support.microsoft.com/office/end-of-support-for-office-2019-for-mac-f2cbba0a-0773-4b2c-b417-b20b5bb2c757)
 
