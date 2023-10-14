@@ -15,29 +15,43 @@
 
 # Microsoft Office For Mac Installer
 
-**Microsoft Office 2019 / LTSC 2021 Suite Installer Volume License Version 16.78 (Ongoing, Update Every Month) Minimal 11.x ( BIG SUR With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA Support)**
+**Microsoft Office LTSC 2021 Suite Installer Volume License Version 16.78 (Ongoing, Update Every Month) Minimal 11.x ( Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA Support)**
 
-[Microsoft Office 2019 / LTSC 2021 / Office 365 Suite Installer](https://s.id/12HI9)
+[Microsoft Office LTSC 2021 / Office 365 Suite Installer](https://s.id/12HI9)
+
+**Noted 
+
+[Microsoft Office For Mac 16.78 is the last build to support 2019 license types!!! - official docs! Click Here](https://support.microsoft.com/office/end-of-support-for-office-2019-for-mac-f2cbba0a-0773-4b2c-b417-b20b5bb2c757)
+
+[Microsoft Office For Mac 16.78 October 2023 update for Office requires a minimum of macOS Monterey - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
+
+[Microsoft Office For Mac 16.67 November 2022 update for Office requires a minimum of macOS Big Sur - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
 
 
-[Microsoft Office For Mac 16.67 November update for Office requires a minimum of macOS Big Sur - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
+**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.77 Maximum 11.0.x (Big Sur)**
+
+[DOWNLOAD LINK INSTALLER](https://s.id/1VitR)
 
 
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.66.1 Maximum 10.15.x (Catalina)**
 
 [DOWNLOAD LINK INSTALLER](https://s.id/1osFQ)
 
+
 **Microsoft Office 2019 Suite Installer Volume License Version 16.54 Maximum 10.14.x (Mojave)**
 
 [DOWNLOAD LINK INSTALLER](https://s.id/FIsW7)
+
 
 **Microsoft Office 2019 Suite Installer Volume License Version 16.43.0 Maximum 10.13.x (High Sierra)**
 
 [DOWNLOAD LINK INSTALLER](https://s.id/12HE8)
 
+
 **Microsoft Office 2016 Suite Installer Volume License Version 16.16.27 Minimum 10.10.x (Yosemite)**
 
 [DOWNLOAD LINK INSTALLER](https://s.id/12HGm)
+
 
 **Microsoft Office 2011 Suite Installer Volume License Version 14.7.7 Minimum 10.6.8 (Snow Leopard)**
 
