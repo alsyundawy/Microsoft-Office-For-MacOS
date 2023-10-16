@@ -7,8 +7,6 @@
 [![License](https://img.shields.io/github/license/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/pulls)
-[![Donate with PayPal](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/alsyundawy)
-[![Sponsor with GitHub](https://img.shields.io/badge/GitHub-sponsor-orange)](https://github.com/sponsors/alsyundawy)
 [![GitHub Stars](https://img.shields.io/github/stars/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/network/members)
 [![GitHub Contributors](https://img.shields.io/github/contributors/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/graphs/contributors)
