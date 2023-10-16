@@ -1,5 +1,7 @@
 # **Installer & Activited Microsoft Office For MacOS**
 
+[![Donate with PayPal](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/alsyundawy)
+[![Sponsor with GitHub](https://img.shields.io/badge/GitHub-sponsor-orange)](https://github.com/sponsors/alsyundawy)
 [![Latest Version](https://img.shields.io/github/v/release/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/releases)
 [![Maintenance Status](https://img.shields.io/maintenance/yes/9999)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/)
 [![License](https://img.shields.io/github/license/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/LICENSE)
