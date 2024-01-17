@@ -17,7 +17,7 @@
 
 **Microsoft Office LTSC 2021 Suite Installer Volume License Version 16.81 (24011420) (Ongoing, Update Every Month) Minimum 12.x (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)**
 
-[Microsoft Office LTSC 2021 / Office 365 Suite Installer](https://s.id/12HI9)
+[Microsoft Office LTSC 2021 / Office 365 Suite Installer](https://go.microsoft.com/fwlink/p/?linkid=525133)
 
 **Noted**
 
@@ -30,32 +30,32 @@
 
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.77 Maximum 11.0.x (Big Sur)**
 
-[DOWNLOAD LINK INSTALLER](https://s.id/1VitR)
+[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg)
 
 
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.66.1 Maximum 10.15.x (Catalina)**
 
-[DOWNLOAD LINK INSTALLER](https://s.id/1osFQ)
+[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg)
 
 
 **Microsoft Office 2019 Suite Installer Volume License Version 16.54 Maximum 10.14.x (Mojave)**
 
-[DOWNLOAD LINK INSTALLER](https://s.id/FIsW7)
+[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg)
 
 
 **Microsoft Office 2019 Suite Installer Volume License Version 16.43.0 Maximum 10.13.x (High Sierra)**
 
-[DOWNLOAD LINK INSTALLER](https://s.id/12HE8)
+[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.43.20110804_Installer.pkg)
 
 
 **Microsoft Office 2016 Suite Installer Volume License Version 16.16.27 Minimum 10.10.x (Yosemite)**
 
-[DOWNLOAD LINK INSTALLER](https://s.id/12HGm)
+[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.16.20101200_Installer.pkg)
 
 
 **Microsoft Office 2011 Suite Installer Volume License Version 14.7.7 Minimum 10.6.8 (Snow Leopard)**
 
-[DOWNLOAD LINK INSTALLER](https://s.id/12HH5)
+[DOWNLOAD LINK INSTALLER](https://officecdn-microsoft-com.akamaized.net/PR/MacOffice2011/en-us/MicrosoftOffice2011.dmg)
 
 
 ---
@@ -64,17 +64,17 @@
 
 **Microsoft Office 2016, 2019 & 2021 Activator**
 
-[Microsoft Office 2021 LTSC Volume License Serializer (M1/M1 PRO/M1 MAX/M1 ULTRA/M2 Support)](https://s.id/1d4gZ)
+[Microsoft Office 2021 LTSC Volume License Serializer (M1/M1 PRO/M1 MAX/M1 ULTRA/M2 Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)
 
-[Microsoft Office 2019 Volume License Serializer  (M1/M1 PRO/M1 MAX/M1 ULTRA/M2 Support) ](https://s.id/1d4hh)
+[Microsoft Office 2019 Volume License Serializer  (M1/M1 PRO/M1 MAX/M1 ULTRA/M2 Support) Microsoft Office For Mac 16.78 is the last build to support 2019 license types ](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2019_VL_Serializer_Universal.pkg)
 
-[Microsoft Office 2019 Volume License Serializer (Maximum Version 16.68 without 365)](https://s.id/1d4hn)
+[Microsoft Office 2019 Volume License Serializer (Maximum Version 16.68 without 365)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2019_VL_Serializer.pkg)
 
-[Microsoft_Office_2016_Volume License Serializer_2.0](https://s.id/1d4hO)
+[Microsoft_Office_2016_Volume License Serializer_2.0](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2016_VL_Serializer_2.0.pkg)
 
 **Microsoft Office 2011 Activator**
 
-[Microsoft_Office_2011_Volume_License_Serializer](https://s.id/1d4i3)
+[Microsoft_Office_2011_Volume_License_Serializer](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/vlmsommxi.dmg)
 
 **Or**
 
@@ -121,15 +121,15 @@ defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0
 
 ## Tutorial: Remove Office License and Install a new Office Volume License using Serializer
 ### First, log off every account that logs on to Microsoft Word.
-### Second, download this and install it. You won't get any new apps but after running it will clear your Office license. [License Removal Tool](https://s.id/1eS3k)
-### Last, download this and install it.  You won't get new apps but this will activate your Office. [Serializer](https://s.id/1d4gZ)
+### Second, download this and install it. You won't get any new apps but after running it will clear your Office license. [License Removal Tool](https://go.microsoft.com/fwlink/?linkid=849815)
+### Last, download this and install it.  You won't get new apps but this will activate your Office. [Serializer](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)
 ### You will get Office 2021 now.
 
 ---
 
 ### If you encounter any problem, just try to reinstall Microsoft Office:
 #### First, Open Finder and go to Applications on the left side, Remove All Microsoft Office Applications.
-#### Next, click the link and install a new copy of Microsoft Office [Office Installer](https://s.id/12HI9), don't open it after it's installed.
+#### Next, click the link and install a new copy of Microsoft Office [Office Installer](https://go.microsoft.com/fwlink/p/?linkid=525133), don't open it after it's installed.
 #### Then, try to repeat those process but this time use the file you've already downloaded.
 #### Hint: License Removal Tool is `Microsoft_Office_License_Removal_2.7.pkg` and Serializer is `Microsoft_Office_LTSC_2021_VL_Serializer.pkg`
 
@@ -141,13 +141,11 @@ defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0
 
 **Office-Reset, Designed to troubleshoot and fix Microsoft Office for Mac errors**
 
-[Office-Reset 1.9.1](https://s.id/1eS38)
+[Office-Reset 1.9.1](https://office-reset.com/download/Microsoft_Office_Reset_1.9.1.pkg)
 
 **License Removal Tool, Official Microsoft tool to remove all Office licenses from a computer**
 
-[License Removal Tool 2.7](https://s.id/1eS3k)
-
-
+[License Removal Tool 2.7](https://go.microsoft.com/fwlink/?linkid=849815)
 
 
 
