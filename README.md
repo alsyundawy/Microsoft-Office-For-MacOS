@@ -15,7 +15,7 @@
 
 # Microsoft Office For Mac Installer
 
-**Microsoft Office LTSC 2021 Suite Installer Volume License Version 16.81 (24011420) (Ongoing, Update Every Month) Minimal 12.x ( Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA Support)**
+**Microsoft Office LTSC 2021 Suite Installer Volume License Version 16.81 (24011420) (Ongoing, Update Every Month) Minimum 12.x (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)**
 
 [Microsoft Office LTSC 2021 / Office 365 Suite Installer](https://s.id/12HI9)
 
@@ -98,33 +98,28 @@
 
 ---
 
-## (Optional step) Run the following commands on Terminal. They will disable telemetry. Copy and paste the following to the Terminal windows and hit "enter" / return key twice:
-`defaults write com.microsoft.Word SendAllTelemetryEnabled -bool FALSE
-
+### (Optional step) Run the following commands on Terminal. They will disable telemetry. Copy and paste the following to the Terminal windows and hit "enter" / return key twice:
+```
+defaults write com.microsoft.Word SendAllTelemetryEnabled -bool FALSE
 defaults write com.microsoft.Excel SendAllTelemetryEnabled -bool FALSE
-
 defaults write com.microsoft.Powerpoint SendAllTelemetryEnabled -bool FALSE
-
 defaults write com.microsoft.Outlook SendAllTelemetryEnabled -bool FALSE
-
 defaults write com.microsoft.onenote.mac SendAllTelemetryEnabled -bool FALSE
-
 defaults write com.microsoft.autoupdate2 SendAllTelemetryEnabled -bool FALSE
-
-defaults write com.microsoft.Office365ServiceV2 SendAllTelemetryEnabled -bool FALSE`
+defaults write com.microsoft.Office365ServiceV2 SendAllTelemetryEnabled -bool FALSE
+```
 
 ---
 
-## Optionally you can disable the cloud login features. Copy and paste the following to Terminal and hit "enter" twice:
-`defaults write com.microsoft.Word UseOnlineContent -integer 0
-
+### Optionally you can disable the cloud login features. Copy and paste the following to Terminal and hit "enter" twice:
+```
+defaults write com.microsoft.Word UseOnlineContent -integer 0
 defaults write com.microsoft.Excel UseOnlineContent -integer 0
-
-defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0`
-
+defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0
+```
 ---
 
-# Tutorial: Remove Office License and Install a new Office Volume License using Serializer
+## Tutorial: Remove Office License and Install a new Office Volume License using Serializer
 ### First, log off every account that logs on to Microsoft Word.
 ### Second, download this and install it. You won't get any new apps but after running it will clear your Office license. [License Removal Tool](https://s.id/1eS3k)
 ### Last, download this and install it.  You won't get new apps but this will activate your Office. [Serializer](https://s.id/1d4gZ)
@@ -141,7 +136,7 @@ defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0`
 
 ---
 
-# Microsoft Office Mac Tools
+## Microsoft Office Mac Tools
 
 
 **Office-Reset, Designed to troubleshoot and fix Microsoft Office for Mac errors**
