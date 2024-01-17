@@ -15,7 +15,7 @@
 
 # Microsoft Office For Mac Installer
 
-**Microsoft Office LTSC 2021 Suite Installer Volume License Version 16.80 (Ongoing, Update Every Month) Minimal 12.x ( Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA Support)**
+**Microsoft Office LTSC 2021 Suite Installer Volume License Version 16.81 (24011420) (Ongoing, Update Every Month) Minimal 12.x ( Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA Support)**
 
 [Microsoft Office LTSC 2021 / Office 365 Suite Installer](https://s.id/12HI9)
 
@@ -95,6 +95,24 @@
 **YPWTM-X3QR3-QHV8Q-9QH9H-RMHX3**
 
 **C7TTK-M29H8-9H7JR-P82WG-2DCDW**
+
+---
+
+# (optional step) Run the following commands on Terminal. They will disable telemetry. Copy and paste the following to the Terminal windows and hit "enter" / return key twice:
+defaults write com.microsoft.Word SendAllTelemetryEnabled -bool FALSE
+defaults write com.microsoft.Excel SendAllTelemetryEnabled -bool FALSE
+defaults write com.microsoft.Powerpoint SendAllTelemetryEnabled -bool FALSE
+defaults write com.microsoft.Outlook SendAllTelemetryEnabled -bool FALSE
+defaults write com.microsoft.onenote.mac SendAllTelemetryEnabled -bool FALSE
+defaults write com.microsoft.autoupdate2 SendAllTelemetryEnabled -bool FALSE
+defaults write com.microsoft.Office365ServiceV2 SendAllTelemetryEnabled -bool FALSE
+
+---
+
+# Optionally you can disable the cloud login features. Copy and paste the following to Terminal and hit "enter" twice:
+defaults write com.microsoft.Word UseOnlineContent -integer 0
+defaults write com.microsoft.Excel UseOnlineContent -integer 0
+defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0
 
 ---
 
