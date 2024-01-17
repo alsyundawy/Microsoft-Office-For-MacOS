@@ -100,18 +100,26 @@
 
 ## (Optional step) Run the following commands on Terminal. They will disable telemetry. Copy and paste the following to the Terminal windows and hit "enter" / return key twice:
 `defaults write com.microsoft.Word SendAllTelemetryEnabled -bool FALSE
+
 defaults write com.microsoft.Excel SendAllTelemetryEnabled -bool FALSE
+
 defaults write com.microsoft.Powerpoint SendAllTelemetryEnabled -bool FALSE
+
 defaults write com.microsoft.Outlook SendAllTelemetryEnabled -bool FALSE
+
 defaults write com.microsoft.onenote.mac SendAllTelemetryEnabled -bool FALSE
+
 defaults write com.microsoft.autoupdate2 SendAllTelemetryEnabled -bool FALSE
+
 defaults write com.microsoft.Office365ServiceV2 SendAllTelemetryEnabled -bool FALSE`
 
 ---
 
 ## Optionally you can disable the cloud login features. Copy and paste the following to Terminal and hit "enter" twice:
 `defaults write com.microsoft.Word UseOnlineContent -integer 0
+
 defaults write com.microsoft.Excel UseOnlineContent -integer 0
+
 defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0`
 
 ---
