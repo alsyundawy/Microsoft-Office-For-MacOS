@@ -17,7 +17,7 @@
 
 **Microsoft Office LTSC 2021 Suite Installer Volume License Version 16.82 (24021116) (Ongoing, Update Every Month) Minimum 12.x (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)**
 
-[Microsoft Office LTSC 2021 / Office 365 Suite Installer](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.82.24021116_Installer.pkg)
+[Microsoft Office LTSC 2021 / Office 365 Suite Installer](https://go.microsoft.com/fwlink/?linkid=525133)
 
 **Noted**
 
@@ -64,7 +64,7 @@
 
 **Microsoft Office 2016, 2019 & 2021 Activator**
 
-[Microsoft Office 2021 LTSC Volume License Serializer (M1/M1 PRO/M1 MAX/M1 ULTRA/M2 Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)
+[Microsoft Office 2021 LTSC Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)
 
 [Microsoft Office 2019 Volume License Serializer  (M1/M1 PRO/M1 MAX/M1 ULTRA/M2 Support) Microsoft Office For Mac 16.78 is the last build to support 2019 license types ](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2019_VL_Serializer_Universal.pkg)
 
@@ -129,7 +129,7 @@ defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0
 
 ### If you encounter any problem, just try to reinstall Microsoft Office:
 #### First, Open Finder and go to Applications on the left side, Remove All Microsoft Office Applications. Or you can use [AppCleaner](https://freemacsoft.net/downloads/AppCleaner_3.6.8.zip) for complete uninstall
-#### Next, click the link and install a new copy of Microsoft Office [Office Installer](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg), don't open it after it's installed.
+#### Next, click the link and install a new copy of Microsoft Office [Office Installer] (https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg), don't open it after it's installed.
 #### Then, try to repeat those process but this time use the file you've already downloaded.
 #### Hint: License Removal Tool is `Microsoft_Office_License_Removal_2.7.pkg` and Serializer is `Microsoft_Office_LTSC_2021_VL_Serializer.pkg`
 
