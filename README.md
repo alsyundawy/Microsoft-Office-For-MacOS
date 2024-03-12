@@ -19,6 +19,12 @@
 
 [Microsoft Office LTSC 2021 / Office 365 Suite Installer](https://go.microsoft.com/fwlink/?linkid=525133)
 
+# Microsoft AutoUpdate (MAU) Standalone Installer	
+
+**Microsoft AutoUpdate (MAU) Standalone Installer	4.69 (Ongoing, Update Every Month) Minimum 10.14.x (MacOS Sonoma Native Support)**
+
+[Microsoft AutoUpdate (MAU) Standalone Installer](https://go.microsoft.com/fwlink/?linkid=830196)
+
 **Noted**
 
 [Microsoft Office For Mac 16.78 is the last build to support 2019 license types!!! - official docs! Click Here](https://support.microsoft.com/office/end-of-support-for-office-2019-for-mac-f2cbba0a-0773-4b2c-b417-b20b5bb2c757)
