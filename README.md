@@ -24,7 +24,7 @@
 [Microsoft Office LTSC 2021 / Office 365 Suite Installer](https://go.microsoft.com/fwlink/?linkid=525133)
 
 
-**Microsoft AutoUpdate (MAU) Standalone Installer	4.69 (Ongoing, Update Every Month) Minimum 10.14.x (MacOS Sonoma Native Support)**
+**Microsoft AutoUpdate (MAU) Standalone Installer	4.70 (Ongoing, Update Every Month) Minimum 10.14.x (MacOS Sonoma Native Support)**
 
 [Microsoft AutoUpdate (MAU) Standalone Installer](https://go.microsoft.com/fwlink/?linkid=830196)
 
