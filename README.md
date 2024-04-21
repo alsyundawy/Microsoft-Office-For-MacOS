@@ -104,7 +104,7 @@
 
 [Microsoft_Office_2011_Volume_License_Serializer](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/vlmsommxi.dmg)
 
-**Or**
+**Or Keys**
 
 **2WBVT-PTKRB-2RH2B-X2DYY-QBXP4**
 
