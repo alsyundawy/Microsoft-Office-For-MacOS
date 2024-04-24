@@ -198,7 +198,7 @@ defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0
 
 ---
 
-## **Anda Memang Luar Biasa | Harry DS Alsyundawy | Kaum Rebahan Garis Keras & Militan**
+## **AYou Are Awesome | Harry DS Alsyundawy | Hardline & Militant Lying Around**
 
 ---
 
