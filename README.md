@@ -50,9 +50,27 @@
 
 [DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.78.23102801_Installer.pkg)
 
+
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.77 Maximum 11.0.x (Big Sur)**
 
 [DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg)
+
+
+**Microsoft Word Update 2019/LTSC 2021 Installer 16.77.1 Maximum 11.0.x (Big Sur)**
+
+[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.77.23091703_Updater.pkg)
+
+**Microsoft Excel Update 2019/LTSC 2021 Installer 16.77.1 Maximum 11.0.x (Big Sur)**
+
+[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.77.23091703_Updater.pkg)
+
+**Microsoft PowerPoint Update 2019/LTSC 2021 Installer 16.77.1 Maximum 11.0.x (Big Sur)**
+
+[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.77.23091703_Updater.pkg)
+
+**Microsoft Outlook Update 2019/LTSC 2021 Installer 16.77.1 Maximum 11.0.x (Big Sur)**
+
+[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.77.23091703_Updater.pkg)
 
 
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.66.1 Maximum 10.15.x (Catalina)**
