@@ -33,6 +33,10 @@
 
 [Microsoft AutoUpdate (MAU) Standalone Installer](https://go.microsoft.com/fwlink/?linkid=830196)
 
+**Microsoft Office 2024 LTSC (Preview) Volume License Serializer**
+
+[Microsoft Office 2024 LTSC (Preview) Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2024_Preview_Serializer.pkg)
+
 **Noted**
 
 [Microsoft Office For Mac 16.78 is the last build to support 2019 license types!!! - official docs! Click Here](https://support.microsoft.com/office/end-of-support-for-office-2019-for-mac-f2cbba0a-0773-4b2c-b417-b20b5bb2c757)
@@ -40,10 +44,6 @@
 [Microsoft Office For Mac 16.78 October 2023 update for Office requires a minimum of macOS Monterey - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
 
 [Microsoft Office For Mac 16.67 November 2022 update for Office requires a minimum of macOS Big Sur - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
-
-**2024 Preview**
-
-[Microsoft Office 2024 LTSC (Preview) Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2024_Preview_Serializer.pkg)
 
 
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.78.3 (When Serializer 2021 Not Working) Minimum 12.0.x (Monterey)**
