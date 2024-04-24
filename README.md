@@ -23,6 +23,9 @@
 
 [Microsoft Office LTSC 2021 / Office 365 Suite Installer](https://go.microsoft.com/fwlink/?linkid=525133)
 
+# Update history for Office for Mac
+
+[Update history for Office for Mac](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac)
 
 **Microsoft AutoUpdate (MAU) Standalone Installer	4.70 (Ongoing, Update Every Month) Minimum 10.14.x (MacOS Sonoma Native Support)**
 
@@ -97,7 +100,6 @@
 
 [Microsoft_Office_2016_Volume License Serializer_v2](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2016_VL_Serializer_2.0.pkg)
 
-[Microsoft_Office_2016_Volume License Serializer_v2 (MSDN ISO)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso)
 
 **Microsoft Office 2011 Activator**
 
