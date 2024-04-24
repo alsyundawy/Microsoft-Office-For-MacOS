@@ -160,7 +160,7 @@ defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0
 
 ### If you encounter any problem, just try to reinstall Microsoft Office:
 #### First, Open Finder and go to Applications on the left side, Remove All Microsoft Office Applications. Or you can use [AppCleaner](https://freemacsoft.net/downloads/AppCleaner_3.6.8.zip) for complete uninstall
-#### Next, click the link and install a new copy of Microsoft Office [Office Installer] (https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg), don't open it after it's installed.
+#### Next, click the link and install a new copy of Microsoft Office [Office Installer 16.66](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg), don't open it after it's installed.
 #### Then, try to repeat those process but this time use the file you've already downloaded.
 #### Hint: License Removal Tool is `Microsoft_Office_License_Removal_2.7.pkg` and Serializer is `Microsoft_Office_LTSC_2021_VL_Serializer.pkg`
 
