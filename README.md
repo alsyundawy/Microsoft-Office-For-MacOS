@@ -12,7 +12,8 @@
 [![GitHub Contributors](https://img.shields.io/github/contributors/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/graphs/contributors)
 
 ## Stargazers over time
-[![Stargazers over time](https://starchart.cc/alsyundawy/Microsoft-Office-For-MacOS.svg?variant=adaptive)](https://starchart.cc/alsyundawy/Microsoft-Office-For-MacOS)
+[![Stargazers over time](https://starchart.cc/alsyundawy/ufw-ipset-blocklist-autoupdate.svg?variant=adaptive)](https://starchart.cc/alsyundawy/ufw-ipset-blocklist-autoupdate)
+
 
 
 ---
