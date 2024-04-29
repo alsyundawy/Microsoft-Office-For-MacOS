@@ -170,6 +170,23 @@ defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0
 ```
 ---
 
+### Troubleshoot 
+
+```
+How about the Office reset tool linked by sleepy hollow just above your post?
+Only when the ancient remnants of some installation also removed, it worked.
+but then I was extra careful. deleted everything with "microsoft", "office" or "365" i found.
+~/Application Support/
+~/Preferences/
+don´t forget ~/Group Containers/UBF8T346G9xxxx
+then a reboot
+office package installed
+another reboot (as i said. I was careful)
+then installed the 2021 VL serializer
+now it works!
+```
+---
+
 ## Tutorial: Remove Office License and Install a new Office Volume License using Serializer
 ### First, log off every account that logs on to Microsoft Word.
 ### Second, download this and install it. You won't get any new apps but after running it will clear your Office license. [License Removal Tool](https://go.microsoft.com/fwlink/?linkid=849815)
