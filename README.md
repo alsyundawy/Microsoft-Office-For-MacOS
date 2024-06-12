@@ -21,7 +21,7 @@
 
 # Microsoft Office For Mac Installer
 
-**Microsoft Office LTSC 2021 Suite Installer Volume License Version 16.85 (24051214) (Ongoing, Update Every Month) Minimum 12.x (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)**
+**Microsoft Office LTSC 2021 Suite Installer Volume License Version 16.86 (24051214) (Ongoing, Update Every Month) Minimum 12.x (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)**
 
 [Microsoft Office LTSC 2021 / Office 365 Suite Installer](https://go.microsoft.com/fwlink/?linkid=525133)
 
