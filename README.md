@@ -31,7 +31,7 @@
 
 ---
 
-**Microsoft AutoUpdate (MAU) Standalone Installer	4.71 (Ongoing, Update Every Month) Minimum 10.14.x (MacOS Sonoma Native Support)**
+**Microsoft AutoUpdate (MAU) Standalone Installer	4.72 (Ongoing, Update Every Month) Minimum 10.14.x (MacOS Sonoma Native Support)**
 
 [Microsoft AutoUpdate (MAU) Standalone Installer](https://go.microsoft.com/fwlink/?linkid=830196)
 
