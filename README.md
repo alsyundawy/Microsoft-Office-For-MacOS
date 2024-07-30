@@ -211,6 +211,10 @@ now it works!
 
 [Office-Reset 1.9.1](https://office-reset.com/download/Microsoft_Office_Reset_1.9.1.pkg)
 
+[Office-Reset 2.0 Beta 1](https://office-reset.com/download/Microsoft_Office_Reset_2.0.0.pkg)
+
+[Office-Reset ChangeLog](https://office-reset.com/changelog/)
+
 **License Removal Tool, Official Microsoft tool to remove all Office licenses from a computer**
 
 [License Removal Tool 2.7](https://go.microsoft.com/fwlink/?linkid=849815)
