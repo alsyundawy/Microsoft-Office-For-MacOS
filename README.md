@@ -50,12 +50,12 @@
 
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.78.3 (When Serializer 2021 Not Working) Minimum 12.0.x (Monterey)**
 
-[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.78.23102801_Installer.pkg)
+[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.78.23102801_Installer.pkg)
 
 
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.77 Maximum 11.0.x (Big Sur)**
 
-[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg)
+[DOWNLOAD LINK INSTALLER] (https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg)
 
 
 **Microsoft Word Update 2019/LTSC 2021 Installer 16.77.1 Maximum 11.0.x (Big Sur)**
@@ -82,7 +82,7 @@
 
 **Microsoft Office 2019 Suite Installer Volume License Version 16.54 Maximum 10.14.x (Mojave)**
 
-[DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg)
+[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.54.21101001_Installer.pkg)
 
 
 **Microsoft Office 2019 Suite Installer Volume License Version 16.43.0 Maximum 10.13.x (High Sierra)**
