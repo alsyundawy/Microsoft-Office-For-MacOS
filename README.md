@@ -11,6 +11,10 @@
 [![GitHub Forks](https://img.shields.io/github/forks/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/network/members)
 [![GitHub Contributors](https://img.shields.io/github/contributors/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/graphs/contributors)
 
+**If you find this project helpful and would like to support it, please consider donating via https://www.paypal.me/alsyundawy. Thank you for your support!**
+
+**Jika Anda merasa terbantu dan ingin mendukung proyek ini, pertimbangkan untuk berdonasi melalui https://www.paypal.me/alsyundawy. Terima kasih atas dukungannya!**
+
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/alsyundawy/Microsoft-Office-For-MacOS.svg?variant=adaptive)](https://starchart.cc/alsyundawy/Microsoft-Office-For-MacOS)
 
