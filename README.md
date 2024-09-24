@@ -213,9 +213,9 @@ now it works!
 
 **Office-Reset, Designed to troubleshoot and fix Microsoft Office for Mac errors**
 
-[Office-Reset 1.9.1](https://office-reset.com/download/Microsoft_Office_Reset_1.9.1.pkg)
+[Office-Reset 1.9.1](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_Reset_1.9.1.pkg)
 
-[Office-Reset 2.0 Beta 1](https://office-reset.com/download/Microsoft_Office_Reset_2.0.0.pkg)
+[Office-Reset 2.0 Beta 1](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_Reset_2.0.0.pkg)
 
 [Office-Reset ChangeLog](https://office-reset.com/changelog/)
 
