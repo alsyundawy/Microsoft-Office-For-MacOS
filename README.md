@@ -25,9 +25,9 @@
 
 # Microsoft Office For Mac Installer
 
-**Microsoft Office LTSC 2021 Suite Installer Volume License Version 16.89.1 (24091630) (Ongoing, Update Every Month) Minimum 12.x (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)**
+**Microsoft Office LTSC 2021 Suite Installer Volume License Version 16.89.2 (24092212) (Ongoing, Update Every Month) Minimum 12.x (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)**
 
-[Microsoft Office LTSC 2021 / Office 365 Suite Installer](https://go.microsoft.com/fwlink/?linkid=525133)
+[Microsoft Office LTSC 2021 / LTSC 2024 / Office 365 Suite Installer](https://go.microsoft.com/fwlink/?linkid=525133)
 
 # Update history for Office for Mac
 
@@ -110,15 +110,15 @@
 
 **Microsoft Office 2016, 2019 2021 & 2024 Activator / License_Serializer**
 
-[Microsoft Office 2024 LTSC Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_LTSC_2024_VL_Serializer.pkg)
+[Microsoft Office 2024 LTSC Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA/macOS Sequoia Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_LTSC_2024_VL_Serializer.pkg)
 
-[Microsoft Office 2021 LTSC Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)
+[Microsoft Office 2021 LTSC Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA/macOS SequoiaNative Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)
 
-[Microsoft Office 2021 LTSC Volume License Serializer MSDN ISO (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SW_DVD5_Office_Mac_Serializer_2021_MLF_X22-74226.ISO)
+[Microsoft Office 2021 LTSC Volume License Serializer MSDN ISO (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA/macOS Sequoia Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SW_DVD5_Office_Mac_Serializer_2021_MLF_X22-74226.ISO)
 
-[Microsoft Office 2019 Volume License Serializer  (M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA Support) Microsoft Office For Mac 16.78 is the last build to support 2019 license types ](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2019_VL_Serializer_Universal.pkg)
+[Microsoft Office 2019 Volume License Serializer  (M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA Support) Microsoft Office For Mac 16.78 is the last build to support 2019 license types ](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2019_VL_Serializer_Universal.pkg)
 
-[Microsoft Office 2019 Volume License Serializer MSDN ISO (M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA Support) Microsoft Office For Mac 16.78 is the last build to support 2019 license types ](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SW_DVD5_Office_Mac_Serializer_2019_MLF_X22-61752.ISO)
+[Microsoft Office 2019 Volume License Serializer MSDN ISO (M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/M4/M4 PRO/M4 MAX/M4 ULTRA Support) Microsoft Office For Mac 16.78 is the last build to support 2019 license types ](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SW_DVD5_Office_Mac_Serializer_2019_MLF_X22-61752.ISO)
 
 [Microsoft Office 2019 Volume License Serializer (Maximum Version 16.68 without 365)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2019_VL_Serializer.pkg)
 
@@ -218,6 +218,8 @@ now it works!
 [Office-Reset 2.0 Beta 1](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_Reset_2.0.0.pkg)
 
 [Office-Reset ChangeLog](https://office-reset.com/changelog/)
+
+
 
 **License Removal Tool, Official Microsoft tool to remove all Office licenses from a computer**
 
