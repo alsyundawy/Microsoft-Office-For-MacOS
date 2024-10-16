@@ -56,7 +56,7 @@
 
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.89.1 (24091630) Maximum 12.0.x (Monterey)**
 
-[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.78.23102801_Installer.pkg)
+[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.89.24091630_Installer.pkg)
 
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.78.3 (23102801) (When Serializer 2021 Not Working) Minimum 12.0.x (Monterey)**
 
