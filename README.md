@@ -1,4 +1,5 @@
 # **Installer & Activited Microsoft Office For MacOS**
+
 **If You Like Please Donation**
 
 [![Donate with PayPal](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/alsyundawy)
@@ -26,7 +27,7 @@
 
 # Microsoft Office For Mac Installer
 
-**Microsoft Office LTSC 2021/2024 Suite Installer Volume License Version Version 16.90 (24101387) (Ongoing, Update Every Month) Minimum 12.x (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)**
+**Microsoft Office LTSC 2021/2024 Suite Installer Volume License Version Version 16.90 (24101387) (Ongoing, Update Every Month) Minimum 13.x (Ventura With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/macOS Sequoia Native Support)**
 
 [Microsoft Office LTSC 2021 / LTSC 2024 / Office 365 Suite Installer](https://go.microsoft.com/fwlink/?linkid=525133)
 
@@ -36,13 +37,13 @@
 
 ---
 
-**Microsoft AutoUpdate (MAU) Standalone Installer	4.756 (Ongoing, Update Every Month) Minimum 10.14.x (MacOS Sonoma Native Support)**
+**Microsoft AutoUpdate (MAU) Standalone Installer	4.76 (Ongoing, Update Every Month) Minimum 10.14.x (macOS Sequoia Native Support)**
 
 [Microsoft AutoUpdate (MAU) Standalone Installer](https://go.microsoft.com/fwlink/?linkid=830196)
 
 **Microsoft Office 2024 LTSC Volume License Serializer**
 
-[Microsoft Office 2024 LTSC Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_LTSC_2024_VL_Serializer.pkg)
+[Microsoft Office 2024 LTSC Volume License Serializer (Ventura With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/macOS Sequoia Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_LTSC_2024_VL_Serializer.pkg)
 
 **Noted**
 
@@ -53,12 +54,16 @@
 [Microsoft Office For Mac 16.67 November 2022 update for Office requires a minimum of macOS Big Sur - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
 
 
-**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.78.3 (When Serializer 2021 Not Working) Minimum 12.0.x (Monterey)**
+**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.89.1 (24091630) Maximum 12.0.x (Monterey)**
+
+[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.78.23102801_Installer.pkg)
+
+**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.78.3 (23102801) (When Serializer 2021 Not Working) Minimum 12.0.x (Monterey)**
 
 [DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.78.23102801_Installer.pkg)
 
 
-**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.77 Maximum 11.0.x (Big Sur)**
+**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.77 (23091003) Maximum 11.0.x (Big Sur)**
 
 [DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg)
 
@@ -80,17 +85,17 @@
 [DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.77.23091703_Updater.pkg)
 
 
-**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.66.1 Maximum 10.15.x (Catalina)**
+**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.66 (22100900) Maximum 10.15.x (Catalina)**
 
 [DOWNLOAD LINK INSTALLER](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg)
 
 
-**Microsoft Office 2019 Suite Installer Volume License Version 16.54 Maximum 10.14.x (Mojave)**
+**Microsoft Office 2019 Suite Installer Volume License Version 16.54 (21101001) Maximum 10.14.x (Mojave)**
 
 [DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.54.21101001_Installer.pkg)
 
 
-**Microsoft Office 2019 Suite Installer Volume License Version 16.43.0 Maximum 10.13.x (High Sierra)**
+**Microsoft Office 2019 Suite Installer Volume License Version 16.43 (20110804)	 Maximum 10.13.x (High Sierra)**
 
 [DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.43.20110804_Installer.pkg)
 
