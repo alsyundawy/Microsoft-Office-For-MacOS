@@ -49,6 +49,10 @@
 
 [Microsoft Office For Mac 16.78 is the last build to support 2019 license types!!! - official docs! Click Here](https://support.microsoft.com/office/end-of-support-for-office-2019-for-mac-f2cbba0a-0773-4b2c-b417-b20b5bb2c757)
 
+[Microsoft Office For Mac 16.89 September 2024 update for Office requires a minimum of macOS Ventura - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
+
+[Microsoft Office For Mac 16.88 August 2024 update for Office maximum of macOS Monterey - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
+
 [Microsoft Office For Mac 16.78 October 2023 update for Office requires a minimum of macOS Monterey - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
 
 [Microsoft Office For Mac 16.67 November 2022 update for Office requires a minimum of macOS Big Sur - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
