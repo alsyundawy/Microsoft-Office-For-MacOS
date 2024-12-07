@@ -58,9 +58,9 @@
 [Microsoft Office For Mac 16.67 November 2022 update for Office requires a minimum of macOS Big Sur - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
 
 
-**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 	16.88 (24081116) Maximum 12.0.x (Monterey)**
+**Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 	16.89.1 (24091630) Maximum 12.7.6 (Monterey)**
 
-[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.88.24081116_Installer.pkg)
+[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.89.24091630_Installer.pkg)
 
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.78.3 (23102801) (When Serializer 2021 Not Working) Minimum 12.0.x (Monterey)**
 
