@@ -1,2 +1,12 @@
-
+# MacOS
 .DS_Store
+.DS_Store?
+._*
+sublime-*
+
+# Windows
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.\!3498\!gambling_indonesia.txt
