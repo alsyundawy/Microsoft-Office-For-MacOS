@@ -37,7 +37,7 @@
 
 ---
 
-**Microsoft AutoUpdate (MAU) Standalone Installer	4.76 (Ongoing, Update Every Month) Minimum 10.14.x (macOS Sequoia Native Support)**
+**Microsoft AutoUpdate (MAU) Standalone Installer	4.77 (Ongoing, Update Every Month) Minimum 10.14.x (macOS Sequoia Native Support)**
 
 [Microsoft AutoUpdate (MAU) Standalone Installer](https://go.microsoft.com/fwlink/?linkid=830196)
 
@@ -237,8 +237,8 @@ now it works!
 
 ---
 
-## **You Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline & Militant Lying Around**
-## **༺ Just Me, I & My Self. No Body Perfect. I Am Internet Addict, Windows, Mac & Linux Lover, I Am Not Good Man But The Man In Good Day  ༻**
+#### **You Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline & Militant Lying Around**
+#### **༺ Just Me, I & My Self. No Body Perfect. I Am Internet Addict, Windows, Mac & Linux Lover, I Am Not Good Man But The Man In Good Day  ༻**
 
 ---
 
