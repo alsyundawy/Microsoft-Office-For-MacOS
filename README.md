@@ -118,7 +118,7 @@ Then, reboot your Mac, reinstall Office, and apply the serializer.
 2. **License Removal:** Download and run the [License Removal Tool](https://go.microsoft.com/fwlink/?linkid=849815).
 3. **Activation:** Download and install the appropriate serializer (for example, [Office 2021 VL Serializer](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)).
 4. **Reinstall if Needed:**
-   - Remove all Microsoft Office applications manually via Finder or use [AppCleaner](https://freemacsoft.net/downloads/AppCleaner_3.6.8.zip) for a complete uninstall.
+   - Remove all Microsoft Office applications manually via Finder or use [Ccleaner](https://www.ccleaner.com/) for a complete uninstall.
    - Reinstall Office using the installer package, then run the License Removal Tool and install the serializer.
 
 _Note: The License Removal Tool file is named `Microsoft_Office_License_Removal_2.7.pkg` and the serializer is `Microsoft_Office_LTSC_2021_VL_Serializer.pkg`._
@@ -129,8 +129,7 @@ _Note: The License Removal Tool file is named `Microsoft_Office_License_Removal_
 
 - **Office-Reset:** A tool to troubleshoot and fix Microsoft Office for Mac errors.
 
-  - [Office-Reset 1.9.1](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_Reset_1.9.1.pkg)
-  - [Office-Reset 2.0 Beta 1](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_Reset_2.0.0.pkg)
+  - [Office-Reset](https://office-reset.com/)
   - [Office-Reset ChangeLog](https://office-reset.com/changelog/)
 
 - **License Removal Tool:** Official Microsoft tool to remove all Office licenses.
