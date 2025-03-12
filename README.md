@@ -1,4 +1,4 @@
-# **Installer & Activited Microsoft Office For MacOS**
+# **Installer & Activated Microsoft Office For MacOS**
 
 **If You Like Please Donation**
 
@@ -27,7 +27,7 @@
 
 # Microsoft Office For Mac Installer
 
-**Microsoft Office LTSC 2021/2024 Suite Installer Volume License Version Version 16.94 (25020927) (Ongoing, Update Every Month) Minimum 13.x (Ventura With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/macOS Sequoia Native Support)**
+**Microsoft Office LTSC 2021/2024 Suite Installer Volume License Version Version 16.95 (Build 25030928) (Ongoing, Update Every Month) Minimum 13.x (Ventura With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/macOS Sequoia Native Support)**
 
 [Microsoft Office LTSC 2021 / LTSC 2024 / Office 365 Suite Installer](https://go.microsoft.com/fwlink/?linkid=525133)
 
