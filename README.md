@@ -34,15 +34,13 @@ If you find this project helpful and would like to support it, please consider d
 
 ## Steps.
 
-- Download Microsoft_Office_LTSC_2021_VL_Serializer.pkg or Microsoft_Office_LTSC_2024_VL_Serializer.pkg.
+- **Download Microsoft_Office_LTSC_2021_VL_Serializer.pkg or Microsoft_Office_LTSC_2024_VL_Serializer.pkg.
 - Install Volume License pkg.
 - Download the installer package which you want from the official link below.
 - Install the pkg that you download.
 - All your office apps have been activated.
 
-##If you already install the VL pkg(or install it before), just install the office update packages.
-
-
+**If you already install the VL pkg(or install it before), just install the office update packages.
 
 
 ---
