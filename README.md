@@ -63,9 +63,9 @@ If you find this project helpful and would like to support it, please consider d
 
 ---
 
-## Office Activators / Serializers
+## Office Serializers
 
-| **Activator / Serializer**                          | **Office Version** | **Supported macOS**                                 | **Download Link**                                                                                                                         |
+| **Serializer**                          | **Office Version** | **Supported macOS**                                 | **Download Link**                                                                                                                         |
 | --------------------------------------------------- | ------------------ | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | **Office 2024 LTSC VL Serializer**                  | Office 2024 LTSC   | macOS 13 (Ventura) and above                        | [Download](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_LTSC_2024_VL_Serializer.pkg)        |
 | **Office 2021 LTSC VL Serializer**                  | Office 2021 LTSC   | macOS 12 (Monterey)  and above                        | [Download](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)         |
