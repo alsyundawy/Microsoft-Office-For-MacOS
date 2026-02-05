@@ -1,4 +1,4 @@
-# Installer & Activator for Microsoft Office for macOS
+# Installer for Microsoft Office for macOS
 
 If you find this project helpful, please consider supporting it by donating:
 
