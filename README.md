@@ -32,7 +32,7 @@ If you find this project helpful and would like to support it, please consider d
 
 ---
 
-## Steps.
+## Steps
 
 - **Download Microsoft_Office_LTSC_2021_VL_Serializer.pkg or Microsoft_Office_LTSC_2024_VL_Serializer.pkg.**
 - Install Volume License pkg.
@@ -42,34 +42,33 @@ If you find this project helpful and would like to support it, please consider d
 
 **If you already install the VL pkg(or install it before), just install the office update packages.**
 
-
 ---
 
 ## Office Suite Installers
 
-| **Product**                                     | **Version (Build)** | **Supported macOS**                    | **Download Link**                                                                                                                                       |
-| ----------------------------------------------- | ------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Office LTSC 2021/2024 Suite Installer**       | 16.107 (26030819)    | Minimum macOS 14 (Sonoma) and above   | [Download](https://go.microsoft.com/fwlink/?linkid=525133)                                                                                              |
-| **Microsoft AutoUpdate (MAU) Installer**        | 4.82.0                | Minimum macOS 10.14 (Mojave) and above | [Download](https://go.microsoft.com/fwlink/?linkid=830196)                                                                                              |
-| **Office LTSC 2021/2024 Suite Installer**       | 16.101 (25091314)    | Up to macOS 13 (Ventura)    | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.101.25091314_Installer.pkg)                                                                                              |
-| **Office 2019/LTSC 2021 Suite Installer**       | 16.89.2 (24091630)  | Up to macOS Monterey (12.7.6)          | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.89.24091630_Installer.pkg) |
-| **Office 2019/LTSC 2021 (Alternate Installer)** | 16.78.3 (23102801)  | Minimum macOS Monterey (12.0.x)        | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.78.23102801_Installer.pkg) |
-| **Office 2019/LTSC 2021 Suite Installer**       | 16.77 (23091003)    | Up to macOS Big Sur (11.x)             | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg) |
-| **Office 2019/LTSC 2021 Suite Installer**       | 16.66 (22100900)    | Up to macOS Catalina (10.15.x)         | [Download](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg)      |
-| **Office 2019 Suite Installer**                 | 16.54 (21101001)    | Up to macOS Mojave (10.14.x)           | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.54.21101001_Installer.pkg)         |
-| **Office 2019 Suite Installer**                 | 16.43 (20110804)    | Up to macOS High Sierra (10.13.x)      | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.43.20110804_Installer.pkg)         |
-| **Office 2016 Suite Installer**                 | 16.16.27            | Minimum macOS Yosemite (10.10.x)       | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.16.20101200_Installer.pkg)         |
-| **Office 2011 Suite Installer**                 | 14.7.7              | Minimum macOS Snow Leopard (10.6.8)    | [Download](https://officecdn-microsoft-com.akamaized.net/PR/MacOffice2011/en-us/MicrosoftOffice2011.dmg)                                                |
+| **Product**                                     | **Version (Build)** | **Supported macOS**                    | **Download Link**                                                                                                                                        |
+| ----------------------------------------------- | ------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Office LTSC 2021/2024 Suite Installer**       | 16.107 (26030819)   | Minimum macOS 14 (Sonoma) and above    | [Download](https://go.microsoft.com/fwlink/?linkid=525133)                                                                                               |
+| **Microsoft AutoUpdate (MAU) Installer**        | 4.82.0              | Minimum macOS 10.14 (Mojave) and above | [Download](https://go.microsoft.com/fwlink/?linkid=830196)                                                                                               |
+| **Office LTSC 2021/2024 Suite Installer**       | 16.101 (25091314)   | Up to macOS 13 (Ventura)               | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.101.25091314_Installer.pkg) |
+| **Office 2019/LTSC 2021 Suite Installer**       | 16.89.2 (24091630)  | Up to macOS Monterey (12.7.6)          | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.89.24091630_Installer.pkg)  |
+| **Office 2019/LTSC 2021 (Alternate Installer)** | 16.78.3 (23102801)  | Minimum macOS Monterey (12.0.x)        | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.78.23102801_Installer.pkg)  |
+| **Office 2019/LTSC 2021 Suite Installer**       | 16.77 (23091003)    | Up to macOS Big Sur (11.x)             | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg)  |
+| **Office 2019/LTSC 2021 Suite Installer**       | 16.66 (22100900)    | Up to macOS Catalina (10.15.x)         | [Download](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg)       |
+| **Office 2019 Suite Installer**                 | 16.54 (21101001)    | Up to macOS Mojave (10.14.x)           | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.54.21101001_Installer.pkg)          |
+| **Office 2019 Suite Installer**                 | 16.43 (20110804)    | Up to macOS High Sierra (10.13.x)      | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.43.20110804_Installer.pkg)          |
+| **Office 2016 Suite Installer**                 | 16.16.27            | Minimum macOS Yosemite (10.10.x)       | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.16.20101200_Installer.pkg)          |
+| **Office 2011 Suite Installer**                 | 14.7.7              | Minimum macOS Snow Leopard (10.6.8)    | [Download](https://officecdn-microsoft-com.akamaized.net/PR/MacOffice2011/en-us/MicrosoftOffice2011.dmg)                                                 |
 
 ---
 
 ## Office Serializers
 
-| **Serializer**                          | **Office Version** | **Supported macOS**                                 | **Download Link**                                                                                                                         |
+| **Serializer**                                      | **Office Version** | **Supported macOS**                                 | **Download Link**                                                                                                                         |
 | --------------------------------------------------- | ------------------ | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | **Office 2024 LTSC VL Serializer**                  | Office 2024 LTSC   | macOS 13 (Ventura) and above                        | [Download](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/DATA/Microsoft_Office_LTSC_2024_VL_Serializer.pkg)        |
-| **Office 2021 LTSC VL Serializer**                  | Office 2021 LTSC   | macOS 12 (Monterey)  and above                        | [Download](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)         |
-| **Office 2021 LTSC VL Serializer MSDN ISO**         | Office 2021 LTSC   | macOS 12 (Monterey) and above                        | [Download](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SW_DVD5_Office_Mac_Serializer_2021_MLF_X22-74226.ISO) |
+| **Office 2021 LTSC VL Serializer**                  | Office 2021 LTSC   | macOS 12 (Monterey) and above                       | [Download](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)         |
+| **Office 2021 LTSC VL Serializer MSDN ISO**         | Office 2021 LTSC   | macOS 12 (Monterey) and above                       | [Download](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SW_DVD5_Office_Mac_Serializer_2021_MLF_X22-74226.ISO) |
 | **Office 2019 VL Serializer**                       | Office 2019        | Last supported build for 2019 license types (16.78) | [Download](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2019_VL_Serializer_Universal.pkg)    |
 | **Office 2019 VL Serializer MSDN ISO**              | Office 2019        | Last supported build for 2019 license types (16.78) | [Download](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SW_DVD5_Office_Mac_Serializer_2019_MLF_X22-61752.ISO) |
 | **Office 2019 VL Serializer (Max Version 16.68)**   | Office 2019        | Likely macOS Big Sur (11.x) or earlier              | [Download](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2019_VL_Serializer.pkg)              |
@@ -79,7 +78,7 @@ If you find this project helpful and would like to support it, please consider d
 
 ### Alternative License Keys For Office 2011 VL
 
-```
+```text
 2WBVT-PTKRB-2RH2B-X2DYY-QBXP4
 V22QX-RC6F3-CMWP7-WV6DH-K29P7
 KCDHJ-KGTKV-788PG-WVBQT-GRWX8
