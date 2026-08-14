@@ -4,7 +4,7 @@
 # Description : Optimize Microsoft Office for macOS (Disable Telemetry & Cloud)
 # Author      : Harry DS Alsyundawy
 # License     : MIT
-# Version     : 1.1.0
+# Version     : 1.2.0
 # ==============================================================================
 #
 # DOCNOTE:
@@ -13,6 +13,15 @@
 #   the root user profile instead of the target user profile.
 #
 # CHANGELOG:
+#   v1.2.0 (2026-08-14):
+#     - Optimized logging mechanism with automatic TTY color detection and
+#       POSIX-compliant '\033' ANSI escape sequences.
+#     - Refactored EXIT/signal trap handling with idempotent trap unsetting to
+#       prevent potential recursive subshell exits.
+#     - Extracted connected experience preference keys into a dedicated readonly
+#       array ('KEYS_CONNECTED_EXPERIENCES') for better modularity and maintainability.
+#     - Eliminated redundant conditional logic within 'disable_cloud_content'.
+#     - Optimized variable scopes and string comparisons across all core functions.
 #   v1.1.0 (2026-07-17):
 #     - Added pre-flight system checks: OS verification (Darwin/macOS) and
 #       dependency verification (command availability of 'defaults').
@@ -30,6 +39,21 @@
 # ==============================================================================
 
 set -Eeuo pipefail
+
+# --- Color Definitions (Auto-detect TTY) ---
+if [[ -t 1 ]]; then
+    COLOR_BLUE='\033[1;34m'
+    COLOR_GREEN='\033[1;32m'
+    COLOR_YELLOW='\033[1;33m'
+    COLOR_RED='\033[1;31m'
+    COLOR_RESET='\033[0m'
+else
+    COLOR_BLUE=''
+    COLOR_GREEN=''
+    COLOR_YELLOW=''
+    COLOR_RED=''
+    COLOR_RESET=''
+fi
 
 # --- Configurations ---
 readonly PLISTS_TELEMETRY=(
@@ -50,32 +74,39 @@ readonly PLISTS_CLOUD=(
     "com.microsoft.Powerpoint"
 )
 
+readonly KEYS_CONNECTED_EXPERIENCES=(
+    "ConnectedOfficeExperiencesPreference"
+    "OfficeExperiencesAnalyzingContentPreference"
+    "OfficeExperiencesDownloadingContentPreference"
+    "OptionalConnectedExperiencesPreference"
+)
+
 # --- Logging Functions ---
 log_info() {
-    printf "\e[1;34m[INFO]\e[0m %s\n" "$1"
+    printf "%b[INFO]%b %s\n" "$COLOR_BLUE" "$COLOR_RESET" "$*"
 }
 
 log_success() {
-    printf "\e[1;32m[SUCCESS]\e[0m %s\n" "$1"
+    printf "%b[SUCCESS]%b %s\n" "$COLOR_GREEN" "$COLOR_RESET" "$*"
 }
 
 log_warn() {
-    printf "\e[1;33m[WARN]\e[0m %s\n" "$1" >&2
+    printf "%b[WARN]%b %s\n" "$COLOR_YELLOW" "$COLOR_RESET" "$*" >&2
 }
 
 log_error() {
-    printf "\e[1;31m[ERROR]\e[0m %s\n" "$1" >&2
+    printf "%b[ERROR]%b %s\n" "$COLOR_RED" "$COLOR_RESET" "$*" >&2
 }
 
 # --- Trap Handler ---
 cleanup() {
     local exit_code=$?
+    trap - EXIT INT TERM HUP
     if [[ $exit_code -ne 0 ]]; then
         log_error "Script execution interrupted or failed."
     fi
-    exit "$exit_code"
 }
-trap cleanup EXIT
+trap cleanup EXIT INT TERM HUP
 
 # --- Core Functions ---
 disable_telemetry() {
@@ -103,7 +134,7 @@ disable_telemetry() {
         fi
     done
 
-    if [[ "$success" = true ]]; then
+    if [[ "$success" == true ]]; then
         log_success "Telemetry optimization completed."
     else
         log_warn "Some telemetry preferences could not be set."
@@ -113,6 +144,7 @@ disable_telemetry() {
 disable_cloud_content() {
     log_info "Disabling Microsoft Office Cloud Content features..."
     local plist
+    local key
     local success=true
 
     for plist in "${PLISTS_CLOUD[@]}"; do
@@ -124,21 +156,18 @@ disable_cloud_content() {
             success=false
         fi
 
-        # Disable modern connected experiences keys for applicable plist domains
-        if [[ "$plist" == "com.microsoft.office" || "$plist" == "com.microsoft.Word" || "$plist" == "com.microsoft.Excel" || "$plist" == "com.microsoft.Powerpoint" ]]; then
-            local key
-            for key in ConnectedOfficeExperiencesPreference OfficeExperiencesAnalyzingContentPreference OfficeExperiencesDownloadingContentPreference OptionalConnectedExperiencesPreference; do
-                if defaults write "$plist" "$key" -bool FALSE; then
-                    log_success "Disabled $key for $plist"
-                else
-                    log_error "Failed to disable $key for $plist"
-                    success=false
-                fi
-            done
-        fi
+        # Disable modern connected experiences keys
+        for key in "${KEYS_CONNECTED_EXPERIENCES[@]}"; do
+            if defaults write "$plist" "$key" -bool FALSE; then
+                log_success "Disabled $key for $plist"
+            else
+                log_error "Failed to disable $key for $plist"
+                success=false
+            fi
+        done
     done
 
-    if [[ "$success" = true ]]; then
+    if [[ "$success" == true ]]; then
         log_success "Cloud content optimization completed."
     else
         log_warn "Some cloud content preferences could not be set."
