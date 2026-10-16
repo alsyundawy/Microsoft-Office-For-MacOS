@@ -8,9 +8,9 @@
 
 [![Donate with PayPal](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/alsyundawy) [![Donate with Ko-fi](https://img.shields.io/badge/Ko--fi-donate-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/alsyundawy) [![Sponsor on GitHub](https://img.shields.io/badge/GitHub-sponsor-orange)](https://github.com/sponsors/alsyundawy) [![Latest Version](https://img.shields.io/github/v/release/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/releases) [![Maintenance Status](https://img.shields.io/maintenance/yes/9999)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/) [![License](https://img.shields.io/github/license/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/blob/master/LICENSE) [![GitHub Issues](https://img.shields.io/github/issues/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/alsyundawy/Microsoft-Office-For-MacOS)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/pulls) [![GitHub Stars](https://img.shields.io/github/stars/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/stargazers) [![GitHub Forks](https://img.shields.io/github/forks/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/network/members) [![GitHub Contributors](https://img.shields.io/github/contributors/alsyundawy/Microsoft-Office-For-MacOS?style=social)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/graphs/contributors)
 
-If you find this project helpful and would like to support it, please consider donating via [PayPal](https://www.paypal.me/alsyundawy) or [Ko-fi](https://ko-fi.com/alsyundawy). Thank you!
+If you find this project helpful and would like to support it, please consider donating via [PayPal](https://www.paypal.me/alsyundawy). Thank you!
 
-**Jika Anda merasa terbantu dan ingin mendukung proyek ini, pertimbangkan untuk berdonasi melalui [PayPal](https://www.paypal.me/alsyundawy) atau [Ko-fi](https://ko-fi.com/alsyundawy). Terima kasih atas dukungannya!**
+**Jika Anda merasa terbantu dan ingin mendukung proyek ini, pertimbangkan untuk berdonasi melalui [PayPal](https://www.paypal.me/alsyundawy). Terima kasih atas dukungannya!**
 
 ---
 
@@ -67,7 +67,7 @@ Follow these simple steps to install and activate your desired Office version:
 
 | **Product** | **Version (Build)** | **Supported macOS** | **Download Link** |
 | --- | --- | --- | --- |
-| **Office LTSC 2021/2024 Suite Installer** | 16.113.1 (26091740) | Minimum macOS 14 (Sonoma) and above | [Download](https://go.microsoft.com/fwlink/?linkid=525133) |
+| **Office LTSC 2021/2024 Suite Installer** | 16.114 (26101123) | Minimum macOS 14 (Sonoma) and above | [Download](https://go.microsoft.com/fwlink/?linkid=525133) |
 | **Microsoft AutoUpdate (MAU) Installer** | 4.85.0 | Minimum macOS 10.14 (Mojave) and above | [Download](https://go.microsoft.com/fwlink/?linkid=830196) |
 | **Office LTSC 2021/2024 Suite Installer** | 16.101 (25091314) | Up to macOS 13 (Ventura) | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.101.25091314_Installer.pkg) |
 | **Office 2019/LTSC 2021 Suite Installer** | 16.89.2 (24091630) | Up to macOS Monterey (12.7.6) | [Download](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.89.24091630_Installer.pkg) |
